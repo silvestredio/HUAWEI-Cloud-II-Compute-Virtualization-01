@@ -1,6 +1,13 @@
 # HUAWEI Cloud II Compute Virtualization 01 
 
-![HUAWEI Cloud II Compute Virtualization 01](https://user-images.githubusercontent.com/93165498/143689775-d8f14643-a5a0-4db7-9692-164954e0fcf9.jpg)
+![HUAWEI Cloud II Compute Virtualization 01](https://user-images.githubusercontent.com/93165498/143689775-d8f14643-a5a0-4db7-9692-164954e0fcf9.jpg) 
+
+![HUAWEI Cloud II Compute Virtualization 02](https://user-images.githubusercontent.com/93165498/144066966-c39ad82c-4d57-4e6c-8e6c-a3617d93e924.jpg)
+
+![HUAWEI Cloud II Compute Virtualization 03](https://user-images.githubusercontent.com/93165498/144066992-d3902728-c256-4c60-87e7-e2bdb1489b81.jpg)
+
+![HUAWEI Cloud II Compute Virtualization 04](https://user-images.githubusercontent.com/93165498/144067006-0cf446e1-cf23-4756-9781-4dfbc56fae0d.jpg)
+
 
 ![HUAWEI Cloud II Compute Virtualization 15](https://user-images.githubusercontent.com/93165498/144065269-7b30c226-dca5-4c76-846f-0b749d84d522.jpg)
 
