@@ -30,3 +30,8 @@
 
 ![HUAWEI Cloud II Compute Virtualization 28](https://user-images.githubusercontent.com/93165498/144065552-c345e0cd-e042-4774-8718-01148a360d34.jpg)
 
+![HUAWEI Cloud II Compute Virtualization 29](https://user-images.githubusercontent.com/93165498/144065564-7bca2377-d37c-4723-928e-0d0f1792c428.jpg)
+
+![HUAWEI Cloud II Compute Virtualization 30](https://user-images.githubusercontent.com/93165498/144065590-339b1ba8-6b1c-438e-a1ba-ff3eee42d040.jpg)
+
+![HUAWEI Cloud Thank You](https://user-images.githubusercontent.com/93165498/143689532-73eb0f18-1b8b-4fe4-800c-1382b8ab29d5.jpg)
